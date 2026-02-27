@@ -1,0 +1,9 @@
+ip name-server 8.8.8.8
+ip domain-lookup
+username test password test
+
+router ospf 1
+ network 0.0.0.0 255.255.255.255 area 0
+
+router bgp 65000
+ neighbor 192.168.122.71 remote-as 65000
