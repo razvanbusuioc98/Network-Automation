@@ -1,3 +1,4 @@
+# Update repository description.
 # Importam libraria json pentru a afisa datele colectate intr-un format structurat si usor de citit.
 import json
 # Importam functia get_network_driver din libraria NAPALM pentru a interactiona cu diverse sisteme de operare de retea.
