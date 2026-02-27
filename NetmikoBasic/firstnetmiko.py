@@ -1,3 +1,4 @@
+# Update repository description.
 # Importam clasa ConnectHandler din libraria netmiko. 
 # Aceasta este folosita pentru a stabili conexiunea SSH cu echipamentul de retea.
 from netmiko import ConnectHandler
