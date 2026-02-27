@@ -1,3 +1,4 @@
+# Update repository description
 # Definim o variabila numita 'device' si ii atribuim valoarea text (string) 'router'.
 # In scripturile reale din productie, aceasta valoare nu va fi scrisa manual de tine, 
 # ci va fi extrasa automat din echipament (de ex: scriptul se conecteaza si citeste hostname-ul).
